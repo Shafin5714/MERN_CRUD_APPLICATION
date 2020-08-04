@@ -1,2 +1,2 @@
-# MERN_CRUD_APPLICATION
-This is one of the first projects i have done while learning the MERN stack (MongoDB,Express,React,Node. js).Its a basic Crud (Create, read, update and delete) application.
+# Description 
+Four Basic functionality (Create, Read, Update, and Delete) is impledmented in this applicaiton. This was mainly to learn how React in front-end and Node in Back-end work together basically the MERN stack.
