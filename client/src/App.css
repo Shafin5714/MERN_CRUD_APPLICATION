@@ -1,0 +1,29 @@
+.header{
+  height: 130px;
+  background-color: #151515;
+  color: #46A29F;
+  font-weight: bold;
+}
+
+.thead-red{
+  background-color: #334247;
+  color: white;
+}
+
+.table{
+  width: 60%;
+  margin: auto;
+}
+
+.input{
+  width: 60%;
+  margin: auto;
+}
+/* .md{
+  background-color: red;
+  color: white;
+  border-radius: 0;
+} */
+closeButton{
+  background-color: white !important;
+}
